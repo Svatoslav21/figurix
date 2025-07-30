@@ -1,0 +1,137 @@
+{
+  "BitmapFont": {
+    "ibm-plex-mono-semibold-tinier": {
+      "file": "fonts/ibm-plex-mono-semibold.fnt",
+      "scaledSize": 30,
+      "useIntegerPositions": false
+    },
+    "ibm-plex-mono-semibold-tiny": {
+      "file": "fonts/ibm-plex-mono-semibold.fnt",
+      "scaledSize": 35,
+      "markupEnabled": true,
+      "useIntegerPositions": false
+    },
+    "ibm-plex-mono-semibold-small": {
+      "file": "fonts/ibm-plex-mono-semibold.fnt",
+      "scaledSize": 40,
+      "useIntegerPositions": false
+    },
+    "ibm-plex-mono-semibold-medium": {
+      "file": "fonts/ibm-plex-mono-semibold.fnt",
+      "scaledSize": 70,
+      "useIntegerPositions": false
+    },
+    "ibm-plex-mono-semibold-large": {
+      "file": "fonts/ibm-plex-mono-semibold.fnt",
+      "scaledSize": 80,
+      "useIntegerPositions": false
+    },
+    "ibm-plex-mono-semibold-huge": {
+      "file": "fonts/ibm-plex-mono-semibold.fnt",
+      "scaledSize": 100,
+      "useIntegerPositions": false
+    }
+  },
+  "Color": {
+    "threshold": {
+      "hex": "#c8364f"
+    }
+  },
+  "TintedDrawable": {
+    "overlay": {
+      "name": "nearest/pixel",
+      "color": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 0.5
+      }
+    }
+  },
+  "ButtonStyle": {
+    "back": {
+      "up": "back"
+    },
+    "bonus": {
+      "up": "bonus"
+    },
+    "clear": {
+      "up": "clear"
+    },
+    "info": {
+      "up": "info"
+    },
+    "overlay": {
+      "up": "overlay"
+    },
+    "play": {
+      "up": "play"
+    },
+    "skip": {
+      "up": "skip"
+    },
+    "theme": {
+      "up": "dark",
+      "checked": "light"
+    }
+  },
+  "LabelStyle": {
+    "bonus-coins": {
+      "font": "ibm-plex-mono-semibold-medium",
+      "fontColor": {
+        "hex": "#040F24"
+      }
+    },
+    "coins": {
+      "font": "ibm-plex-mono-semibold-small"
+    },
+    "combo": {
+      "font": "ibm-plex-mono-semibold-large"
+    },
+    "game-over": {
+      "font": "ibm-plex-mono-semibold-large"
+    },
+    "game-over-subtitle": {
+      "font": "ibm-plex-mono-semibold-small"
+    },
+    "info": {
+      "font": "ibm-plex-mono-semibold-tiny",
+      "fontColor": "menu-text"
+    },
+    "next": {
+      "font": "ibm-plex-mono-semibold-small",
+      "fontColor": "game-text"
+    },
+    "score": {
+      "font": "ibm-plex-mono-semibold-large",
+      "fontColor": "game-text"
+    },
+    "tasks": {
+      "font": "ibm-plex-mono-semibold-huge",
+      "fontColor": "tasks"
+    },
+    "task": {
+      "font": "ibm-plex-mono-semibold-tinier",
+      "fontColor": "menu-text"
+    },
+    "task-count": {
+      "font": "ibm-plex-mono-semibold-large",
+      "fontColor": "menu-text"
+    },
+    "task-count-reached": {
+      "font": "ibm-plex-mono-semibold-large",
+      "fontColor": {
+        "hex": "#00ac11"
+      }
+    },
+    "task-total": {
+      "font": "ibm-plex-mono-semibold-tiny"
+    }
+  },
+  "TextButtonStyle": {
+    "default": {
+      "up": "button",
+      "font": "ibm-plex-mono-semibold-medium"
+    }
+  }
+}
