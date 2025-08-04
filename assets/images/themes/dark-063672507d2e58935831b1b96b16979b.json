@@ -1,0 +1,13 @@
+{
+  "Color": {
+    "game-text": {
+      "hex": "#ffffff"
+    },
+    "menu-text": {
+      "hex": "#ffffff"
+    },
+    "tasks": {
+      "hex": "#02315f"
+    }
+  }
+}

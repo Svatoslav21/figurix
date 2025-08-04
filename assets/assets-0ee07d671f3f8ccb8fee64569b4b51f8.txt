@@ -1,0 +1,6 @@
+images/fonts/ibm-plex-mono-license.txt
+images/fonts/ibm-plex-mono-semibold.fnt
+images/skin.json
+images/themes/dark.json
+images/themes/light.json
+sounds/sand.mp3

@@ -1,0 +1,135 @@
+
+light.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+back
+  rotate: false
+  xy: 1608, 620
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+background
+  rotate: false
+  xy: 2, 166
+  size: 860, 1864
+  orig: 860, 1864
+  offset: 0, 0
+  index: -1
+bonus
+  rotate: false
+  xy: 1796, 1790
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+clear
+  rotate: false
+  xy: 864, 106
+  size: 360, 300
+  orig: 360, 300
+  offset: 0, 0
+  index: -1
+coins-background
+  rotate: false
+  xy: 1588, 136
+  size: 438, 270
+  orig: 438, 270
+  offset: 0, 0
+  index: -1
+down
+  rotate: false
+  xy: 622, 112
+  size: 93, 52
+  orig: 93, 52
+  offset: 0, 0
+  index: -1
+field
+  rotate: false
+  xy: 864, 408
+  size: 742, 814
+  split: 151, 138, 154, 152
+  pad: 75, 75, 75, 75
+  orig: 742, 814
+  offset: 0, 0
+  index: -1
+info
+  rotate: false
+  xy: 1796, 1548
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+info-background
+  rotate: false
+  xy: 864, 1224
+  size: 930, 806
+  split: 159, 165, 155, 159
+  pad: 75, 75, 75, 75
+  orig: 930, 806
+  offset: 0, 0
+  index: -1
+next
+  rotate: false
+  xy: 1226, 106
+  size: 360, 300
+  orig: 360, 300
+  offset: 0, 0
+  index: -1
+skip
+  rotate: false
+  xy: 1608, 922
+  size: 360, 300
+  orig: 360, 300
+  offset: 0, 0
+  index: -1
+tasks/bonus
+  rotate: false
+  xy: 330, 12
+  size: 144, 152
+  orig: 144, 152
+  offset: 0, 0
+  index: -1
+tasks/clear
+  rotate: false
+  xy: 2, 2
+  size: 162, 162
+  orig: 162, 162
+  offset: 0, 0
+  index: -1
+tasks/correct
+  rotate: false
+  xy: 166, 2
+  size: 162, 162
+  orig: 162, 162
+  offset: 0, 0
+  index: -1
+tasks/repeat
+  rotate: false
+  xy: 476, 20
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+up
+  rotate: false
+  xy: 717, 112
+  size: 93, 52
+  orig: 93, 52
+  offset: 0, 0
+  index: -1
+
+light2.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+tasks/background
+  rotate: false
+  xy: 2, 2
+  size: 860, 1452
+  orig: 860, 1452
+  offset: 0, 0
+  index: -1
